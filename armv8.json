@@ -1,0 +1,50 @@
+{
+  "packages": [
+    {
+      "package": "FSDrive",
+      "version": "0.4.2-1",
+      "dname": "FSDrive",
+      "desc": "FSDrive turns your NAS into your own cloud. The server runs on the NAS, and the Mac client shows your files in Finder like iCloud Drive, downloading them on demand. On the NAS the files stay plain folders in a share or home folder you choose, so they remain reachable over SMB, in File Station and without FSDrive. Users sign in with their NAS accounts; the administrator chooses who may use FSDrive, sets quotas and file size limits, and can disconnect any device. Outside the local network devices connect through port forwarding, an HTTPS reverse proxy or an SSH gateway, encrypted with the server key. Settings open from the main menu.",
+      "link": "https://romulas-12.github.io/fsdrive-packages-synology/FSDrive_0.4.2_armv8.spk",
+      "size": 31730688,
+      "md5": "8febcc53b9cbf248dc8302ab064664ac",
+      "thumbnail": [
+        "https://romulas-12.github.io/fsdrive-packages-synology/icons/FSDrive_72.png",
+        "https://romulas-12.github.io/fsdrive-packages-synology/icons/FSDrive_256.png"
+      ],
+      "snapshot": [
+        "https://romulas-12.github.io/fsdrive-packages-synology/snapshots/synology-1-users.png",
+        "https://romulas-12.github.io/fsdrive-packages-synology/snapshots/synology-2-general.png",
+        "https://romulas-12.github.io/fsdrive-packages-synology/snapshots/synology-3-storage.png",
+        "https://romulas-12.github.io/fsdrive-packages-synology/snapshots/synology-4-access.png"
+      ],
+      "qinst": true,
+      "qstart": true,
+      "qupgrade": true,
+      "start": true,
+      "depsers": null,
+      "deppkgs": null,
+      "conflictpkgs": null,
+      "maintainer": "Romulas",
+      "maintainer_url": "https://github.com/Romulas-12/fsdrive",
+      "distributor": "Romulas",
+      "distributor_url": "https://github.com/Romulas-12/fsdrive",
+      "support_url": "https://github.com/Romulas-12/fsdrive",
+      "changelog": "",
+      "beta": false,
+      "thirdparty": true,
+      "silent_install": false,
+      "silent_uninstall": false,
+      "silent_upgrade": true,
+      "auto_upgrade_from": null,
+      "price": 0,
+      "download_count": 0,
+      "recent_download_count": 0,
+      "category": 0,
+      "subcategory": 0,
+      "type": 0
+    }
+  ],
+  "keyrings": [],
+  "published": "2026-11-04T14:49:04+00:00"
+}

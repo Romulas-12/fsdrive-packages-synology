@@ -1,0 +1,29 @@
+{
+  "version": "0.4.2",
+  "published": "2026-11-04T14:49:04+00:00",
+  "source": "https://romulas-12.github.io/fsdrive-packages-synology/x86_64.json",
+  "sources": {
+    "x86_64": "https://romulas-12.github.io/fsdrive-packages-synology/x86_64.json",
+    "armv8": "https://romulas-12.github.io/fsdrive-packages-synology/armv8.json"
+  },
+  "files": [
+    {
+      "arch": "x86_64",
+      "url": "https://romulas-12.github.io/fsdrive-packages-synology/FSDrive_0.4.2_x86_64.spk",
+      "size": 33328640,
+      "sha256": "b668721b10b53c0458c2c430ff004fec4756ed530b0685b90a992704418ceb67"
+    },
+    {
+      "arch": "armv8",
+      "url": "https://romulas-12.github.io/fsdrive-packages-synology/FSDrive_0.4.2_armv8.spk",
+      "size": 31730688,
+      "sha256": "f89ba162969e9bec351bac496dbe2038b6084eb0a54992e33309afddba49a473"
+    }
+  ],
+  "snapshots": [
+    "snapshots/synology-1-users.png",
+    "snapshots/synology-2-general.png",
+    "snapshots/synology-3-storage.png",
+    "snapshots/synology-4-access.png"
+  ]
+}
